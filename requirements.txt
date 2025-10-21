@@ -1,0 +1,10 @@
+numpy>=1.21.0
+matplotlib>=3.5.0
+librosa>=0.9.0
+sounddevice>=0.4.0
+soundfile>=0.10.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+tensorflow>=2.8.0
+hmmlearn>=0.2.7
+ipython>=8.0.0
